@@ -3,6 +3,8 @@
 
 ![img](https://github.com/funkierfob3180/Deep_Learning_Challenge/assets/45497824/a66b55a1-f13a-4308-b8ff-6e1fc002dc3e)
 
+<iframe src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fraw%2Egithubusercontent%2Ecom%3A443%2Ffunkierfob3180%2FDeep%5FLearning%5FChallenge%2Fmain%2FNeural%5FNetwork%5FModel%5FReport%2Epptx&amp;wdAr=1.7777777777777777" width="962px" height="565px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+
 ### Background:
 
 The nonprofit foundation Alphabet Soup wants a tool that can help it select the applicants for funding with the best chance of success in their ventures. With your knowledge of machine learning and neural networks, you’ll use the features in the provided dataset to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
